@@ -8,14 +8,14 @@
         <ul>
             確かJavaScriptではじめて作ったツールです。<br>
             Chance.jsというライブラリを使用しました。<br>
-            <a href="https://rannum.nakatai.ga">使ってみる</a><br>
-            <a href="https://github.com/Nakatai-0322/Check-Kun">ソースコード</a>
+            <a href="https://rannum.nakatai.ga" target="_blank">使ってみる</a><br>
+            <a href="https://github.com/Nakatai-0322/Check-Kun" target="_blank">ソースコード</a>
         </ul>
         <h3>アクセス環境表示ツール</h3>
         <ul>
             IPアドレスなどを表示できます。<br>
-            <a href="https://check.nakatai.ga">使ってみる</a><br>
-            <a href="https://github.com/Nakatai-0322/Check-Kun">ソースコード</a>
+            <a href="https://check.nakatai.ga" target="_blank">使ってみる</a><br>
+            <a href="https://github.com/Nakatai-0322/Check-Kun" target="_blank">ソースコード</a>
         </ul>
     </div>
 </template>
