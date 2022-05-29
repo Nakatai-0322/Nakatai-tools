@@ -1,5 +1,5 @@
 <template>
-    <div class="hello">
+    <div class="intro">
         <h1>{{ msg }}</h1>
         <p>
             Nakataiが作成したツールの紹介です。
@@ -22,7 +22,7 @@
 
 <script>
 export default {
-    name: 'HelloWorld',
+    name: 'ToolIntro',
     props: {
         msg: String
     }

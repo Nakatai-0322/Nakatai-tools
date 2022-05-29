@@ -1,15 +1,15 @@
 <template>
     <img alt="logo" src="https://cdn.nakatai.ga/img/nakataimc.webp" />
-    <HelloWorld msg="Nakatai Tools List" />
+    <ToolIntro msg="Nakatai's Tool List" />
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import ToolIntro from "./components/ToolIntro.vue";
 
 export default {
     name: "App",
     components: {
-        HelloWorld,
+        ToolIntro
     },
 };
 </script>
